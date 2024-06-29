@@ -47,7 +47,7 @@ To start the VPN in client mode:
 
  Replace <VPN_SERVER_IP> with the IP address of the VPN server you wish to connect to.
 
-Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
